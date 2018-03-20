@@ -1,0 +1,6 @@
+:foreman:
+     :host: 'https://<satellite_url>'
+     :username: '<satellite_username>'
+     :password: '<satellite_password'
+     :request_timeout: -1
+     :refresh_cache: false
