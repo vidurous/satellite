@@ -1,1 +1,1 @@
-# satellite
+# satellite support scripts
