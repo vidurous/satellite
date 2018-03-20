@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Add lifecycle
 lifecycle=""
 # Add org
